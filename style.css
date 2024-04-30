@@ -1,0 +1,522 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@500;600;700&family=IBM+Plex+Serif:ital,wght@1,600&family=Kdam+Thmor+Pro&family=Noto+Serif:ital,wght@0,100;0,200;1,100&family=Oswald:wght@200;300;400;500;600&family=Playfair+Display:ital@1&family=Roboto+Condensed:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+.topbar{
+    background-color: green;
+    padding: 15px;
+    height: 40px;
+}
+ .topbar h1{
+font-size: 12px;
+color: white;
+
+ }
+
+
+ i{
+    padding-left:10px ;
+    padding-right:10px ;
+    color:#FFF !important;
+   }
+
+  .nav-tabs{
+   margin-left: 180px;
+  
+   }
+  
+  
+   .nav-tabs .nav-link {
+    margin-bottom: -1px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+   
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    
+    margin-top: 90px;
+   
+    }
+    
+   .nav-item h1{
+      text-align: center;
+      color: #000002;
+      font-size: 12px;
+   }
+   
+
+ .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  
+    background-color: rgb(6, 146, 9);
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+
+   
+}
+.tab-content img {
+    height: 150px;
+    width:150px;
+    padding: 10px;
+    margin-top: 10px;
+}
+ .nav-item img{
+  margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+.navbar{
+ 
+  height: 30px;
+  padding: 10px;
+ }
+ .navbar ul li{
+  font-size:15px;
+  color: #020000;
+  
+  margin-bottom: 50px;
+  padding: 20px;
+  
+ }
+ .navbar-nav .nav-link {
+  color: #070000;
+  margin-top: 70px;
+  
+ }
+ 
+ .btn:not(:disabled):not(.disabled) {
+   cursor: pointer;
+   background: rgb(34, 166, 4);
+   height: 50px;
+   width: 250px;
+}
+
+
+.tab-content h1{
+   font-size: 15px;
+   color: rgb(26, 12, 12);
+   text-align: center;
+ }
+ .tab-content h2{
+   font-size: 18px;
+   color: rgb(52, 192, 37);
+   text-align: center;
+ }
+ 
+ .nav-pills .nav-link {
+   background: 0 0;
+   border: 0;
+   border-radius: 0.25rem;
+   margin-top: 80px;
+}
+.nav-pills .nav-link.active, .nav-pills .show.nav-link {
+   margin-top: 80px;
+   color: #fff;
+   background-color: #0b980e;
+   margin-left: 1000px;
+}
+.tab-content p{
+   font-size: 14px;
+   text-align: start;
+   color: #020000;
+}
+.tab-content h4{
+  font-size: 18px;
+  color: rgb(52, 192, 37);
+  text-align:start;
+}
+
+
+.tab-content h3{
+   font-size: 16px;
+   text-align: start;
+   color: #020000;
+}
+
+.swati.col-md-3{
+   margin-top: 80px;
+   padding: 10px;
+   background-color: rgb(255, 240, 240);
+   border: 5px solid transparent;
+   border-top-left-radius: 0.25rem;
+   border-top-right-radius: 0.25rem;
+   height:200px;
+  
+  
+}
+
+  
+
+
+ .box{
+  margin-left: 200px; 
+ }
+ .box2{
+   margin-top: 150px;
+ }
+ 
+ .swati p{
+   font-size: 15px;
+   color: rgb(162, 152, 152);
+   text-align: start;
+   font-weight:600;
+ }
+ .swati h1{
+   text-align: start;
+   font-size: 20px;
+margin-top: 100px;
+color: #000002;
+ }
+ .Rate p{
+   font-size: 30px;
+   color: rgb(4, 4, 4);
+   text-align: start;
+   font-weight:650;
+   
+ }
+ .Rate h1{
+   text-align: start;
+   font-size: 20px;
+margin-top: 70px;
+color: #22c006;
+
+
+ }
+ .Rate{
+   background-color: rgb(238, 232, 232);
+   height: 200px;
+   margin-top: 80px;
+   border: 5px solid transparent;
+ }
+ 
+ .bodyimage img{
+ 
+ 
+ width: 330px;
+ }
+ .body{
+margin-top: 100px;
+
+ }
+ .body h1{
+  font-size: 18px;
+  font-weight: 600;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  
+ }
+ .body h2{
+  font-size: 15px;
+ padding-left: 30px;
+ margin-top: 20px;
+ color: blue;
+ }
+
+.body .bodyimage{
+ 
+  width:330px;
+  height: 350px;
+ 
+  background-color: rgb(249, 240, 240);
+ 
+ 
+}
+.body h3{
+  font-size:12px;
+  margin-top: 10px;
+}
+
+.logoimage img{
+  width: 250px;
+  margin-top: 70px;
+  padding: 20px;
+ 
+}
+.src{
+  height: 250px;
+  width: 100%;
+  background-color: #029b05;
+}
+.src h1{
+  margin-top: 100px;
+  color: white;
+  font-size: 35px;
+  font-weight: 500;
+}
+.src p{
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.form {
+  display:flex;
+}
+.form input{
+  margin-top: 100px;
+  height:50px;
+  background: rgb(255, 255, 255);
+}
+.form button{
+  background: red;
+  margin-top: 100px;
+  height: 50px;
+
+  
+  margin-right: 80px;
+}
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+  background: rgb(241, 10, 6);
+  height: 50px;
+  width: 250px;
+}
+
+
+
+.footer{
+  background-color: rgb(255, 255, 255);
+  height: 420px;
+}
+.footer3 h1{
+  margin-left: 11px;
+  right: 30px;
+  margin-top: 100px;
+  font-size: 23px;
+  text-align: start;
+}
+.footer4 h1{
+  margin-left: 11px;
+  margin-top: 100px;
+  font-size: 23px;
+  text-align: start;
+}
+.footer3 h2{
+ 
+  font-size: 14px;
+  color: grey;
+ margin: 15px;
+ font-style: bold;
+ text-align: start;
+}
+.footer4 h2{
+  margin-top: 23px;
+  font-size: 12px;
+  color: grey;
+ margin: 15px;
+ text-align: start;
+}
+.footer1 h1{
+  margin-top: 80px;
+  font-size: 23px;
+  text-align: start;
+}
+.footer2 h1{
+  margin-top: 100px;
+  font-size: 20px;
+  text-align: start;
+}
+.footer1 img{
+  margin-top: 100px;
+  width: 180px;
+  align-items: start;
+}
+.footer1 h1{
+  font-size: 20px;
+  color: gray;
+}
+.footer1 h2{
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+.footer1 p{
+  margin-top: 30px;
+  font-size: 15px;
+  color: rgb(138, 136, 136);
+}
+.footer2 p{
+  color: rgb(2, 2, 2);
+  margin-top: 80px;
+}
+.priya{
+  height: 100px;
+  background-color: rgb(251, 243, 244);
+}
+.priya h1{
+  padding: 40px;
+  font-size: 16px;
+  color: #000002;
+ margin-left: 200px;
+}
+
+ .offer-tage.img{
+margin-left: 400px;
+}
+
+.carousel-inner h5{
+ 
+  font-size: 70px;
+  font-weight: 900;
+  color: #000002;
+}
+.carousel-inner h1{
+  color: #029b05;
+  font-size:30px;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+}
+ 
+
+
+.btn-1 {
+  background: rgb(3, 182, 39);
+  background: linear-gradient(0deg, rgb(5, 137, 16) 0%, rgb(5, 139, 47) 100%);
+  border: none;
+  height: 40px;
+  width: 150px;
+  margin-bottom: 80px;
+ color: #fff;
+  border-radius: 20px;
+
+
+}
+.btn-1:hover {
+   background: rgb(255, 4, 0);
+background: linear-gradient(0deg, rgb(217, 68, 9) 0%, rgb(73, 219, 10) 100%);
+}
+.btn-2 {
+  background: rgb(224, 88, 54);
+  border: none;
+  height: 40px;
+  width: 150px;
+ margin-bottom: 100px;
+  color: #fff;
+  border: none;
+  right: 400px;
+  border-radius: 20px;
+ 
+ 
+}
+.btn-2:hover {
+   background: rgb(255, 3, 3);
+
+}
+.btn-3 {
+  background: rgb(8, 227, 19);
+  border: none;
+  height: 40px;
+ 
+  border-radius: 20px;
+  color: #fff;
+  border: none;
+  text-align:center;
+  width: 150px;
+  margin-right: 730px;
+  
+}
+.btn-3:hover {
+   background: rgb(29, 252, 5);
+
+}
+
+
+.heading-2 h5{
+  font-size: 70px;
+  text-align: start;
+  margin-right: 500px;
+   
+
+  font-weight: 600;
+  color: #ffffff;
+}
+.heading-1 h1{
+color: #e7f9e7;
+font-size:30px;
+font-weight: bold;
+font-family: 'Dancing Script', cursive;
+text-align: start;
+margin-right: 500px;
+ 
+
+
+}
+.carousel-inner p{
+  
+    color: #ffffff;
+    font-size:15px;
+    margin-bottom: 60px;
+   
+    text-align: start;
+    margin-right: 500px;
+ 
+     
+    
+}
+
+.navbar-expand-sm {
+  justify-content: center !important;
+}
+
+@media (min-width: 576px){
+
+
+.navbar-expand-sm {
+  justify-content: center !important;
+}
+}
+
+.input-group{
+ color: red;
+ margin-left: 260px;
+  margin-top: 20px;
+  text-align: center;
+  
+}
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+  background: rgb(7, 149, 30);
+  height: 40px;
+  width:50px;
+ margin-top: 23px;
+}
+.input-group.form-control{
+width: 200px;
+
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    top: 25px;
+}
+.input-group img{
+  height: 30px;
+  margin-top: 25px;
+  padding: 2px;
+margin-right: 20px;
+ 
+}
+.birdal h1{
+                 
+  text-align: center;
+  font-size: 30px;
+}
+.birdal p{
+  text-align: center;
+  font: size 15px;
+}
+
+
